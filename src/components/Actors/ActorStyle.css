@@ -1,0 +1,23 @@
+.casts{
+    margin-top: 20px;
+    width: 870px;
+    height: 100%;
+}
+.casts .swiper-button-prev::after,.casts .swiper-button-next::after{
+    color:white;
+    margin-bottom: 100px;
+    font-size: 30px;
+ 
+  }
+.card__actor{
+
+    border-radius: 5px;
+    text-align: left;
+}
+.swiper-slide img.actor__img{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    width: 100%;
+    border-radius: 5px;
+}
+.actor__info h3{font-size: 16px;}

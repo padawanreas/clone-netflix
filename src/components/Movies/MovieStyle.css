@@ -1,0 +1,18 @@
+.banner__movie{
+    background-color: pink;
+}
+.banner__movie__content{
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    background-color: rgb(0,0,0,0.2);
+    width: 100%;
+    height: 80%;
+    text-align: left;
+}
+.banner__movie__info{
+    padding: 200px 50px;
+    color: white;
+    line-height: 1.5;
+}
+.banner__desc{width: 500px;}
