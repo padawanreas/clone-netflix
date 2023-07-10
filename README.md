@@ -3,7 +3,7 @@
 api the movie database:
 https://www.themoviedb.org/
 
-npm:
+npm:\
 swiper: npm i swiper\
 react-icons: npm i react-icons --save\
-react-router-dom: npm react-router-dom\
+react-router-dom: npm react-router-dom
