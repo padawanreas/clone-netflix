@@ -1,4 +1,7 @@
 #clone netflix with the movie database
+
+##
+
 api the movie database: https://www.themoviedb.org/
 npm:
 swiper: npm i swiper
