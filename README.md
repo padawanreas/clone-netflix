@@ -1,4 +1,4 @@
-#clone netflix with the movie database
+# clone netflix with the movie database
 
 ##
 
